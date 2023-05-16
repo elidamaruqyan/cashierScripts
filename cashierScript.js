@@ -20,7 +20,7 @@
       iframe.height = height;
       iframe.style.minWidth = '100%';
       iframe.style.display = 'block';
-      iframe.src = 'http://localhost:3001/paymentsAccount';
+      iframe.src = 'http://pycashier.dev.digi.loc/paymentsAccount';
       wrapper.appendChild(iframe);
     },
 
