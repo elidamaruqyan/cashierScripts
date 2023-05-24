@@ -20,7 +20,7 @@
       iframe.height = height;
       iframe.style.minWidth = '100%';
       iframe.style.display = 'block';
-      iframe.src = 'http://pycashier.dev.digi.loc/paymentsAccount';
+      iframe.src = 'https://pycashier.tst-digi.com/paymentsAccount';
       wrapper.appendChild(iframe);
     },
 
